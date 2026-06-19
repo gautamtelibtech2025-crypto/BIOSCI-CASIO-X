@@ -1,0 +1,6 @@
+{
+  "name": "BIOSCI CASIO X",
+  "description": "Offline next-gen scientific, chemical, biological and physical chemistry CASIO calculating engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
